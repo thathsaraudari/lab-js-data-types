@@ -52,11 +52,12 @@ console.log((firstpart + lastpart.toUpperCase()) + (firstword + lastword.toUpper
 const billTotal = 84;
 
 // Calculate the tip (15% of the bill total)
-
+let tipAmount_percent = 15;
+let tipAmount = (84/100) * tipAmount_percent;
 
 // Print out the tipAmount
 
-
+console.log(tipAmount);
 
 
 /*******************************************
