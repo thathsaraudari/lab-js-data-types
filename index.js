@@ -92,3 +92,11 @@ const expression5 = !a || !b;
 const expression6 = !(a || b);
 
 const expression7 = a && a;
+
+console.log(expression1);
+console.log(expression2);
+console.log(expression3);
+console.log(expression4);
+console.log(expression5);
+console.log(expression6);
+console.log(expression7);
